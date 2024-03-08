@@ -1,0 +1,142 @@
+.principal
+{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    
+
+}
+#c1
+{
+    background-color: greenyellow;
+    width: 450px;
+    height: 675px;
+    margin: 5px;
+    
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#c3
+{
+    background-color: greenyellow;
+    width: 450px;
+    height: 675px;
+    margin: 5px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+    
+}
+#c2
+{
+    background-color: greenyellow;
+    width: 450px;
+    height: 675px;
+    margin: 5px;
+    
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#c1-1
+{
+    background-color: red;
+    width: 140px;
+    height: 215px;
+    margin: 5px;
+    float: left;
+
+}
+#c1-3
+{
+    background-color: red;
+    width: 140px;
+    height: 215px;
+    margin: 5px;
+    margin: auto;
+    
+}
+#c1-2
+{
+    background-color: red;
+    width: 140px;
+    height: 215px;
+    margin: 5px;
+    float: right;
+
+}
+.c1
+{
+    background-color: red;
+    width: 445px;
+    height: 65px;
+    margin: 5px;
+
+}
+.c2
+{
+    background-color: red;
+    width: 450px;
+    height: 150px;
+    margin: 5px;
+}
+#c3-1
+{
+    background-color: red;
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    float: left;
+
+}
+#c3-3
+{
+    background-color: red;
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    margin: auto;
+    
+}
+#c3-2
+{
+    background-color: red;
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    float: right;
+
+}
+#c2-1
+{
+    background-color: grey;
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    float: left;
+
+}
+#c2-3
+{
+    background-color: yellow;
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    margin: auto;
+    
+}
+#c2-2
+{
+    background-color: white;
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    margin-bottom: ;
+    float: right;
+
+}
